@@ -1,6 +1,6 @@
-# Data-structures-
+# c language 
 # #include <stdio.h>
-  Int main(){
-  printf("hello world");
-  return 0;
-}
+  int main(){
+        printf("hello world");
+        return 0;
+  }
